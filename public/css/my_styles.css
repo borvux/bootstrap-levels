@@ -1,0 +1,168 @@
+.base-btn {
+  color: white;
+  border-radius: 8px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  box-shadow: 10px 10px 48px -1px rgba(0,0,0,0.39);
+  -webkit-box-shadow: 10px 10px 48px -1px rgba(0,0,0,0.39);
+  -moz-box-shadow: 10px 10px 48px -1px rgba(0,0,0,0.39);
+}
+
+/* blue button */
+.blue {
+  background-color: blue;
+}
+
+.blue:hover {
+  background-color: darkblue;
+}
+
+.blue:active {
+  background-color: lightblue;
+}
+
+/* grey button */
+.grey {
+  background-color: grey;
+}
+
+.grey:hover {
+  background-color: darkgrey;
+}
+
+.grey:active {
+  background-color: lightgrey;
+}
+
+/* green button */
+.green {
+  background-color: green;
+}
+
+.green:hover {
+  background-color: darkgreen;
+}
+
+.green:active {
+  background-color: lightgreen;
+}
+
+/* red button */
+.red {
+  background-color: red;
+}
+
+.red:hover {
+  background-color: darkred;
+}
+
+.red:active {
+  background-color: lightpink;
+}
+
+/* yellow button */
+.yellow {
+  background-color: yellow;
+  color: black; /* override the color of the letters */
+}
+
+.yellow:hover {
+  background-color: darkgoldenrod;
+}
+
+.yellow:active {
+  background-color: lightyellow;
+}
+
+/* teal button */
+.cyan {
+  background-color: cyan;
+  color: black; /* override the color of the letters */
+}
+
+.cyan:hover {
+  background-color: darkcyan;
+}
+
+.cyan:active {
+  background-color: lightcyan;
+}
+
+/* ---------------------------------------------------------- */
+/* outline button */
+.outline-btn {
+  border: 2px solid;
+  border-radius: 8px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+/* blue button */
+.outline-blue {
+  border-color: blue;
+  color: blue;
+}
+
+.outline-blue:hover {
+  background-color: blue;
+  color: white;
+}
+
+/* grey button */
+.outline-grey {
+  border-color: grey;
+  color: grey;
+}
+
+.outline-grey:hover {
+  background-color: grey;
+  color: white;
+}
+
+/* green button */
+.outline-green {
+  border-color: green;
+  color: green;
+}
+
+.outline-green:hover {
+  background-color: green;
+  color: white;
+}
+
+/* red button */
+.outline-red {
+  border-color: red;
+  color: red;
+}
+
+.outline-red:hover {
+  background-color: red;
+  color: white;
+}
+
+/* yellow button */
+.outline-yellow {
+  border-color: yellow;
+  color: yellow;
+}
+
+.outline-yellow:hover {
+  background-color: yellow;
+  color: black;
+}
+
+/* teal button */
+.outline-cyan {
+  border-color: cyan;
+  color: cyan;
+}
+
+.outline-cyan:hover {
+  background-color: cyan;
+  color: black;
+}
